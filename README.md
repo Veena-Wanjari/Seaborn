@@ -14,17 +14,19 @@
 * This data set includes 721 Pokemon, describing attributes in 13 different columns mentioned below.
 * Columns are: '#','Name', 'Type 1', 'Type 2', 'Total', 'HP', 'Attack', 'Defense', 'Sp. Atk', 'Sp. Def', 'Speed', 'Generation', 'Legendary'
 
-# Aim : The aim of this project is to draw the relationship between different columns using various plots.
+# Aim : 
+
+The aim of this project is to draw the relationship between different columns using various plots.
 
 # Plots used:
 
-A - lineplots()
-B - barplot()
-C - distplot()
-D - boxplot()
-E - scatterplot()
-F - lmplot()
-G - subplots()
-H - pairplots()
-I - jointplots()
-J - heatmap()
+* A - lineplots()
+* B - barplot()
+* C - distplot()
+* D - boxplot()
+* E - scatterplot()
+* F - lmplot()
+* G - subplots()
+* H - pairplots()
+* I - jointplots()
+* J - heatmap()
